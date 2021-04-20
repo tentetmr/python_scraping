@@ -16,8 +16,8 @@ cookie = response.cookies
 info = {
     "sn": authenticity,
     "updateCheckFlag": "false",
-    "accountId": "keisuke.tamura.osaka@gmail.com",
-    "password": "WgiCV3cVxaHaVJdG",
+    "accountId": "",
+    "password": "",
     "autoLoginFlag": "true",
     "complete": "true"
 }

@@ -7,8 +7,8 @@ import openpyxl
 URL = "https://pdt.r-agent.com/"
 LOGIN = "pdt/app/pdt_login_view"
 LOGIN_ROUTE = "pdt/app/pdt_login?PDT31A"
-USER = "keisuke.tamura.osaka@gmail.com"
-PASS = "WgiCV3cVxaHaVJdG"
+USER = ""
+PASS = ""
 
 s = requests.session()
 response = s.get(URL + LOGIN)
